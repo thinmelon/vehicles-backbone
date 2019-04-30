@@ -1,0 +1,22 @@
+{
+  "name": "vehicles-backbone",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "body-parser-xml": "^1.1.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "log4js": "^4.0.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.1.13",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3",
+    "q": "^1.5.1"
+  }
+}
